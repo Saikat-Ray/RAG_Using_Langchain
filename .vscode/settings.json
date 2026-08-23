@@ -1,0 +1,6 @@
+{
+    "chat.viewSessions.orientation": "stacked",
+    "python.createEnvironment.trigger": "off",
+    "git.openRepositoryInParentFolders": "never",
+
+}
