@@ -15,3 +15,5 @@ langchain_classic
 chromadb
 pypdf
 python-dotenv
+langchain_postgres
+psycopg2-binary
