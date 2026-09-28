@@ -20,6 +20,7 @@ __pycache__/
 
 # Local vector-store data
 chroma_db/
+tmp_proof_fix*/
 
 # PDF documents
 *.pdf
